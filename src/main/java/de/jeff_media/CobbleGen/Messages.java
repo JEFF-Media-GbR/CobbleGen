@@ -1,4 +1,4 @@
-package de.jeff_media.PluginName;
+package de.jeff_media.CobbleGen;
 
 import net.md_5.bungee.api.ChatMessageType;
 import net.md_5.bungee.api.chat.TextComponent;

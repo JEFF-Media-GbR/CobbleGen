@@ -1,4 +1,4 @@
-package de.jeff_media.PluginName;
+package de.jeff_media.CobbleGen;
 
 import java.io.*;
 import java.nio.charset.StandardCharsets;

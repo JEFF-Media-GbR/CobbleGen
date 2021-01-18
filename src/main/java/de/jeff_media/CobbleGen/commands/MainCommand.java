@@ -1,6 +1,6 @@
-package de.jeff_media.PluginName.commands;
+package de.jeff_media.CobbleGen.commands;
 
-import de.jeff_media.PluginName.Main;
+import de.jeff_media.CobbleGen.Main;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;

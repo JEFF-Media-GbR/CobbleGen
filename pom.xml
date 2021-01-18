@@ -5,10 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>de.jeff_media</groupId>
-    <name>PluginName</name>
-    <artifactId>PluginName</artifactId>
+    <name>CobbleGen</name>
+    <artifactId>CobbleGen</artifactId>
     <version>1.0.0</version>
-    <description>This plugin does awesome things.</description>
+    <description>mfnalex ist halt einfach n geiler Typ.</description>
 
     <properties>
         <spigot.website>https://www.spigotmc.org/resources/authors/mfnalex.175238/</spigot.website>

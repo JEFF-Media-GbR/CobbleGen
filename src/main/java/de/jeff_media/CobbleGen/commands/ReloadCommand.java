@@ -1,7 +1,7 @@
-package de.jeff_media.PluginName.commands;
+package de.jeff_media.CobbleGen.commands;
 
-import de.jeff_media.PluginName.Main;
-import de.jeff_media.PluginName.Permissions;
+import de.jeff_media.CobbleGen.Main;
+import de.jeff_media.CobbleGen.Permissions;
 import org.bukkit.command.Command;
 import org.bukkit.command.CommandSender;
 
